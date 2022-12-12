@@ -1,0 +1,6 @@
+.idea/
+*.iml
+/k4r-adapter-rest/target/
+.classpath
+.settings
+
